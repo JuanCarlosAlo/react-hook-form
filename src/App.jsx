@@ -1,5 +1,7 @@
+import Form from './components/form/Form';
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return <Form />;
 };
 
 export default App;
